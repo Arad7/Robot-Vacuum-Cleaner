@@ -48,8 +48,8 @@ This project simulates a **robotic vacuum cleaner** using Python. The robot navi
 2. **Input File Format**:  
    - The room layout should be a grid with symbols, and the initial robot location must be in the top row. Example for a grid:  
     
-```	@ * . . . *
-	. . * . . .
-	. . . . .
-	. . * .
-	. * . ```
+```@ * . . . *
+. . * . . .
+. . . . .
+. . * .
+. * . 
