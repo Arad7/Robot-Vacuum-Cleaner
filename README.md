@@ -52,4 +52,4 @@ This project simulates a **robotic vacuum cleaner** using Python. The robot navi
 	. . * . . .
 	. . . . .
 	. . * .
-	. * .```
+	. * . ```
